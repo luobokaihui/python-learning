@@ -59,3 +59,5 @@ def main(title,duration):
     print(f'【{title}】【{duration}天】挑战赛（请输入每天的数量）')
 
 main('俯卧撑',14)
+
+"""测试"""
