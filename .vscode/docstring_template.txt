@@ -1,0 +1,10 @@
+:Description: {{description}}
+
+  :Params:
+  {{#params}}
+      :param {{name}}: {{description}}
+  {{/params}}
+
+  :Returns:
+
+  :Raises:
